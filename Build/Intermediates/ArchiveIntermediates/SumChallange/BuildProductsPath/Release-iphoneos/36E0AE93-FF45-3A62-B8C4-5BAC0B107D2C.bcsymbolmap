@@ -1,0 +1,188 @@
+BCSymbolMap Version: 2.0
+-[ViewController viewDidLoad]
+-[ViewController viewWillAppear:]
+-[ViewController startButtonTouched:]
+-[ViewController easy:]
+-[ViewController medium:]
+-[ViewController hard:]
+_OBJC_CLASS_$_ViewController
+_OBJC_METACLASS_$_ViewController
+Apple LLVM version 10.0.0 (clang-1000.11.45.5)
+/Users/Macbook/Desktop/TheMindMath/SumChallange/ViewController.m
+/Users/Macbook/Desktop/TheMindMath
+_OBJC_CLASS_$_AppDelegate
+/Users/Macbook/Desktop/TheMindMath/SumChallange/main.m
+main
+-[GameVC viewDidLoad]
+-[GameVC b1:]
+-[GameVC b2:]
+-[GameVC b3:]
+-[GameVC b4:]
+-[GameVC b5:]
+-[GameVC b6:]
+-[GameVC b7:]
+-[GameVC b8:]
+-[GameVC b9:]
+-[GameVC b10:]
+-[GameVC b11:]
+-[GameVC b12:]
+-[GameVC b13:]
+-[GameVC b14:]
+-[GameVC b15:]
+-[GameVC b16:]
+-[GameVC setScreen]
+-[GameVC setButtons]
+-[GameVC setEasyArray]
+-[GameVC setMediumArray]
+-[GameVC setHardArray]
+-[GameVC showFailAlert]
+___23-[GameVC showFailAlert]_block_invoke
+___copy_helper_block_
+___destroy_helper_block_
+-[GameVC showFailAlertFinal]
+___28-[GameVC showFailAlertFinal]_block_invoke
+___copy_helper_block_.274
+___destroy_helper_block_.275
+-[GameVC showFailAlertAttempt]
+___30-[GameVC showFailAlertAttempt]_block_invoke
+___copy_helper_block_.277
+___destroy_helper_block_.278
+-[GameVC showPassedAlert]
+___25-[GameVC showPassedAlert]_block_invoke
+___copy_helper_block_.286
+___destroy_helper_block_.287
+-[GameVC showPassedAlertFinal]
+___30-[GameVC showPassedAlertFinal]_block_invoke
+___copy_helper_block_.295
+___destroy_helper_block_.296
+-[GameVC level]
+-[GameVC setLevel:]
+-[GameVC scoreLabel]
+-[GameVC setScoreLabel:]
+-[GameVC targetLabel]
+-[GameVC setTargetLabel:]
+-[GameVC attemptsLabel]
+-[GameVC setAttemptsLabel:]
+-[GameVC questionLabel]
+-[GameVC setQuestionLabel:]
+-[GameVC answerLabel]
+-[GameVC setAnswerLabel:]
+-[GameVC b2]
+-[GameVC setB2:]
+-[GameVC b1]
+-[GameVC setB1:]
+-[GameVC b3]
+-[GameVC setB3:]
+-[GameVC b4]
+-[GameVC setB4:]
+-[GameVC b5]
+-[GameVC setB5:]
+-[GameVC b6]
+-[GameVC setB6:]
+-[GameVC b7]
+-[GameVC setB7:]
+-[GameVC b8]
+-[GameVC setB8:]
+-[GameVC b9]
+-[GameVC setB9:]
+-[GameVC b10]
+-[GameVC setB10:]
+-[GameVC b11]
+-[GameVC setB11:]
+-[GameVC b12]
+-[GameVC setB12:]
+-[GameVC b13]
+-[GameVC setB13:]
+-[GameVC b14]
+-[GameVC setB14:]
+-[GameVC b15]
+-[GameVC setB15:]
+-[GameVC b16]
+-[GameVC setB16:]
+-[GameVC a1]
+-[GameVC setA1:]
+-[GameVC a2]
+-[GameVC setA2:]
+-[GameVC a3]
+-[GameVC setA3:]
+-[GameVC a4]
+-[GameVC setA4:]
+-[GameVC .cxx_destruct]
+_OBJC_CLASS_$_GameVC
+_OBJC_IVAR_$_GameVC.sum
+_OBJC_IVAR_$_GameVC.buttonCount
+_OBJC_IVAR_$_GameVC.index
+_OBJC_IVAR_$_GameVC.score
+_OBJC_IVAR_$_GameVC.count
+_OBJC_IVAR_$_GameVC.attempts
+_OBJC_IVAR_$_GameVC._b1
+_OBJC_IVAR_$_GameVC.n1
+_OBJC_IVAR_$_GameVC._a1
+_OBJC_IVAR_$_GameVC.n2
+_OBJC_IVAR_$_GameVC._a2
+_OBJC_IVAR_$_GameVC.n3
+_OBJC_IVAR_$_GameVC._a3
+_OBJC_IVAR_$_GameVC.n4
+_OBJC_IVAR_$_GameVC._a4
+_OBJC_IVAR_$_GameVC._b2
+_OBJC_IVAR_$_GameVC._b3
+_OBJC_IVAR_$_GameVC._b4
+_OBJC_IVAR_$_GameVC._b5
+_OBJC_IVAR_$_GameVC._b6
+_OBJC_IVAR_$_GameVC._b7
+_OBJC_IVAR_$_GameVC._b8
+_OBJC_IVAR_$_GameVC._b9
+_OBJC_IVAR_$_GameVC._b10
+_OBJC_IVAR_$_GameVC._b11
+_OBJC_IVAR_$_GameVC._b12
+_OBJC_IVAR_$_GameVC._b13
+_OBJC_IVAR_$_GameVC._b14
+_OBJC_IVAR_$_GameVC._b15
+_OBJC_IVAR_$_GameVC._b16
+_OBJC_IVAR_$_GameVC._scoreLabel
+_OBJC_IVAR_$_GameVC.answerString
+_OBJC_IVAR_$_GameVC.dataArray
+_OBJC_IVAR_$_GameVC.SelectedItem
+_OBJC_IVAR_$_GameVC.data
+_OBJC_IVAR_$_GameVC.t
+___block_descriptor_tmp
+___block_descriptor_tmp.276
+___block_descriptor_tmp.279
+___block_descriptor_tmp.288
+___block_descriptor_tmp.297
+_OBJC_IVAR_$_GameVC._level
+_OBJC_IVAR_$_GameVC._targetLabel
+_OBJC_IVAR_$_GameVC._attemptsLabel
+_OBJC_IVAR_$_GameVC._questionLabel
+_OBJC_IVAR_$_GameVC._answerLabel
+_OBJC_IVAR_$_GameVC.target
+_OBJC_METACLASS_$_GameVC
+_OBJC_IVAR_$_GameVC.targetNumber
+_OBJC_IVAR_$_GameVC.randomButton
+_OBJC_IVAR_$_GameVC.timer
+/Users/Macbook/Desktop/TheMindMath/SumChallange/GameVC.m
+/Users/Macbook/Desktop/TheMindMath/SumChallange/GameVC.h
+__destroy_helper_block_
+__copy_helper_block_
+__30-[GameVC showPassedAlertFinal]_block_invoke
+__25-[GameVC showPassedAlert]_block_invoke
+__30-[GameVC showFailAlertAttempt]_block_invoke
+__28-[GameVC showFailAlertFinal]_block_invoke
+__23-[GameVC showFailAlert]_block_invoke
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[AppDelegate applicationWillResignActive:]
+-[AppDelegate applicationDidEnterBackground:]
+-[AppDelegate applicationWillEnterForeground:]
+-[AppDelegate applicationDidBecomeActive:]
+-[AppDelegate applicationWillTerminate:]
+-[AppDelegate window]
+-[AppDelegate setWindow:]
+-[AppDelegate .cxx_destruct]
+_OBJC_IVAR_$_AppDelegate._window
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_$_UIApplicationDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+_OBJC_METACLASS_$_AppDelegate
+/Users/Macbook/Desktop/TheMindMath/SumChallange/AppDelegate.m
+/Users/Macbook/Desktop/TheMindMath/SumChallange/AppDelegate.h

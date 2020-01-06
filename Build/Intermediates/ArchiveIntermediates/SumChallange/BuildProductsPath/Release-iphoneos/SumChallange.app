@@ -1,0 +1,1 @@
+/Users/Macbook/Desktop/TheMindMath/Build/Intermediates/ArchiveIntermediates/SumChallange/InstallationBuildProductsLocation/Applications/SumChallange.app
